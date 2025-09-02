@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ddd2a4d8.css",
+    "main.js": "/static/js/main.0f59162c.js",
+    "static/media/midas.svg": "/static/media/midas.9a4c7a25f0ef369131eb5c31f338064d.svg",
+    "static/media/Logo main blue-01.png": "/static/media/Logo main blue-01.f32d25d968c705c9812b.png",
+    "static/media/Heroimg1.svg": "/static/media/Heroimg1.b18f68fab9d54627480182092fb79d41.svg",
+    "static/media/soft.svg": "/static/media/soft.8ef0156f5ac085c6468998e0669823d3.svg",
+    "static/media/KEAcolor.png": "/static/media/KEAcolor.e9d73bbe4eb7e855d525.png",
+    "static/media/expert.svg": "/static/media/expert.7e47fed7666af15f0c54ddb2619a8de6.svg",
+    "static/media/host.svg": "/static/media/host.669a099adda5f869690dd3081f332559.svg",
+    "static/media/mob.svg": "/static/media/mob.7bc7202dd9521d1a37c62e4aa77df96e.svg",
+    "static/media/Lumberworld.svg": "/static/media/Lumberworld.40a5edc30530ecb38883c467c9f44833.svg",
+    "static/media/webs.svg": "/static/media/webs.f7347425c404e2e99c62f49bc089dffb.svg",
+    "static/media/footer.svg": "/static/media/footer.f7b67a1234a7ce02c909.svg",
+    "index.html": "/index.html",
+    "static/media/hero-bg.svg": "/static/media/hero-bg.2237f2b6be81c21a80a6.svg",
+    "main.ddd2a4d8.css.map": "/static/css/main.ddd2a4d8.css.map",
+    "main.0f59162c.js.map": "/static/js/main.0f59162c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddd2a4d8.css",
+    "static/js/main.0f59162c.js"
+  ]
+}
